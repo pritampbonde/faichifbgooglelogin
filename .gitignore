@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+dist
+build
+example/tmp
+example/secrets.py
+simpleauth/*
+tests/*
+Makefile
+MANIFEST
