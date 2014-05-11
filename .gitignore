@@ -4,7 +4,8 @@ dist
 build
 example/tmp
 example/secrets.py
-simpleauth/*
+simpleauth/__init__.py
+simpleauth/handler.py
 tests/*
 Makefile
 MANIFEST
